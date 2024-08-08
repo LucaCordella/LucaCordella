@@ -1,22 +1,25 @@
-# Olá! 👋
-
-Bem-vindo ao meu perfil do GitHub. Sou Luca Cordella, um estagiário e estudate entusiasta de tecnologia e desenvolvimento de software.
-
-## Sobre mim
-
-- 🔭 Atualmente estagiando no Ministério das Comunicações.
-- 🌱 Aprendendo mais sobre JavaScript e Java.
-- 📚 Amante de futebol e música.
-- 🖥️ Buscando sempre mais conhecimento, por meio da faculdade, trabalho e certificações.
-- ⌨️ Apredendo a como inserir meus projetos aqui no GitHub.
-
-## Projetos em Destaque
 
 
 
-## Contato
+Olá! 👋
 
-- 📧 Email: lucacordella12@gmail.com
-- 🌐 LinkedIn: lucacordlla www.linkedin.com/in/lucacordella
+Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e Desenvolvimento de Sistemas com uma paixão crescente por tecnologia e desenvolvimento de software.
 
-Obrigado por visitar meu perfil! 🚀
+# Sobre mim
+
+🚀 Estagiário no Ministério das Comunicações: Atuando como designer gráfico, onde estou aprimorando minhas habilidades em criação visual e design.
+🌱 Explorando o mundo da programação: Atualmente, mergulhando em JavaScript e Java para expandir meus conhecimentos.
+🎵 Apaixonado por futebol e música: Sempre em busca do próximo grande jogo ou canção para adicionar à minha lista de favoritas.
+📚 Eterno aprendiz: Combinando a faculdade, certificações e experiências práticas para continuar crescendo e aprendendo.
+⌨️ Em construção: Estou trabalhando para adicionar meus projetos aqui no GitHub em breve!
+
+# Projetos em Destaque
+
+🔍 Em breve!: Estou preparando alguns projetos legais para compartilhar com vocês. Fique atento!
+
+# Contato
+
+📧 Email: lucacordella12@gmail.com
+🌐 LinkedIn: lucacordella
+
+Obrigado por visitar meu perfil! 🚀 Estou animado para conectar e compartilhar conhecimento com a comunidade!
