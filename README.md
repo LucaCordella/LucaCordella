@@ -20,6 +20,6 @@ Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e
 # Contato
 
 📧 Email: lucacordella12@gmail.com
-🌐 LinkedIn: lucacordella
+🌐 LinkedIn: lucacordella (www.linkedin.com/in/lucacordella)
 
 Obrigado por visitar meu perfil! 🚀 Estou animado para conectar e compartilhar conhecimento com a comunidade!
