@@ -8,9 +8,13 @@ Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e
 # Sobre mim
 
 🚀 Estagiário no Ministério das Comunicações: Atuando como designer gráfico, onde estou aprimorando minhas habilidades em criação visual e design.
+
 🌱 Explorando o mundo da programação: Atualmente, mergulhando em JavaScript e Java para expandir meus conhecimentos.
+
 🎵 Apaixonado por futebol e música: Sempre em busca do próximo grande jogo ou canção para adicionar à minha lista de favoritas.
+
 📚 Eterno aprendiz: Combinando a faculdade, certificações e experiências práticas para continuar crescendo e aprendendo.
+
 ⌨️ Em construção: Estou trabalhando para adicionar meus projetos aqui no GitHub em breve!
 
 # Projetos em Destaque
