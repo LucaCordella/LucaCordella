@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e
 
 # Projetos em Destaque
 
-🔍 Em breve!: Estou preparando alguns projetos legais para compartilhar com vocês. Fique atento!
+🔍 Em breve!: Estou preparando alguns projetos legais para compartilhar com a comunidade!
 
 # Contato
 
