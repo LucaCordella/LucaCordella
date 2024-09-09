@@ -49,3 +49,5 @@
 
 ## 
 <b>Obrigado por visitar meu perfil! 🚀 Estou bastante animado para conectar e compartilhar conhecimento com a comunidade!
+
+![Snake animation](https://github.com/LucaCordella/LucaCordella/blob/output/github-contribution-grid-snake.svg)
