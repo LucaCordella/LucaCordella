@@ -1,7 +1,7 @@
 
 
 
-# Olá! 👋
+# Olá! Ciao!👋
 
 <b>Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e Desenvolvimento de Sistemas com uma paixão crescente por tecnologia e desenvolvimento de software. 🚀 
 
