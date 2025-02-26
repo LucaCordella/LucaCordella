@@ -5,7 +5,7 @@
 
 <b>Bem-vindo ao meu perfil do GitHub! Sou Luca Cordella, um estudante de Análise e Desenvolvimento de Sistemas do Centro Universitário de Brasília (CEUB), com uma paixão crescente por tecnologia e desenvolvimento de software. 🚀 
 
-## Stats
+## Estatísticas
 
 <div>
     <a href="https://beacons.ai/LucaCordella"> 
