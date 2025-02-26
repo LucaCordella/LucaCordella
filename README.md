@@ -7,9 +7,7 @@
 
 ## Stats
 
-<a href="https://github.com/LucaCordella/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaCordella&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+
 
 ## Linguagens
 <div>  
