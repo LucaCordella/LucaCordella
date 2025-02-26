@@ -7,7 +7,11 @@
 
 ## Stats
 
-[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaCordella)](https://github.com/LucaCordella/github-readme-stats)
+<div>
+    <a href="https://beacons.ai/LucaCordella"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaCordella&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCordella&layout=compact&langs_counts=16&theme=gruvbox"/>
+</div>
 
 ## Linguagens
 <div>  
