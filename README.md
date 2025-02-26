@@ -7,7 +7,7 @@
 
 ## Stats
 
-
+[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaCordella)](https://github.com/LucaCordella/github-readme-stats)
 
 ## Linguagens
 <div>  
