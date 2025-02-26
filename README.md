@@ -38,5 +38,3 @@
 
 ## 
 <b>Obrigado por visitar meu perfil! 🚀 Estou bastante animado para conectar e compartilhar conhecimento com a comunidade!
-
-
