@@ -17,8 +17,7 @@
 <!-- ========== CONTATO ========== -->
 <div align="center">
     <a href="mailto:lucacordella12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
-    <a href="https://www.linkedin.com/in/lucacordella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://www.instagram.com/lucacordella/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/lucacordella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <br>
@@ -28,4 +27,10 @@
 <div align="center">
     <a href="https://beacons.ai/LucaCordella"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCordella&layout=compact&langs_counts=16&theme=dark"/>
+</div>
+
+<br>
+
+<div align="center">
+  <p><em> Obrigado por visitar meu perfíl!</em></p>
 </div>
