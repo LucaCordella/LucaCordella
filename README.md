@@ -8,16 +8,16 @@
 
 <!-- ========== APRESENTAÇÃO ========== -->
 <div align="center">
-  <p>💻<em> Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.uniceub.br/">Centro Universitário de Brasília.</a>.</em></p>
-  <p>💼<em> Estagiando como desenvolvedor na fábrica de software do <a href="https://www.gov.br/mcom/en">Ministério das Comunicações</a></em></p>
+  <p>💻<em> Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.uniceub.br/" target="_blank">Centro Universitário de Brasília.</a>.</em></p>
+  <p>💼<em> Estagiando como desenvolvedor na fábrica de software do <a href="https://www.gov.br/mcom/en" target="_blank">Ministério das Comunicações</a></em></p>
 </div>
 
 <br>
 
 <!-- ========== CONTATO ========== -->
 <div align="center">
-    <a href="mailto:lucacordella12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
-    <a href="https://www.linkedin.com/in/lucacordella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="mailto:lucacordella12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>    
+    <a href="https://www.linkedin.com/in/lucacordella" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
 </div>
 
 <br>
