@@ -9,7 +9,7 @@
 <!-- ========== APRESENTAÇÃO ========== -->
 <div align="center">
   <p>💻<em> Estudante de Análise e Desenvolvimento de Sistemas no <a href="https://www.uniceub.br/" target="_blank">Centro Universitário de Brasília.</a>.</em></p>
-  <p>💼<em> Estagiando como desenvolvedor na fábrica de software do <a href="https://www.gov.br/mcom/en" target="_blank">Ministério das Comunicações</a></em></p>
+  <p>💼<em> Estagiando como desenvolvedor na fábrica de software do <a href="https://www.gov.br/mcom/en" target="_blank">Ministério das Comunicações.</a></em></p>
 </div>
 
 <br>
