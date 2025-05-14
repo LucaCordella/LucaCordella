@@ -31,5 +31,5 @@
 <br>
 
 <div align="center">
-  <p><em> Obrigado por visitar meu perfíl!</em></p>
+  <p><em>Obrigado por visitar meu perfíl!</em></p>
 </div>
