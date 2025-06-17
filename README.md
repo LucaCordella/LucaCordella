@@ -25,7 +25,7 @@
 <!-- ========== ESTATÍSTICAS ========== -->
 <div align="center">
     <a href="https://beacons.ai/LucaCordella"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCordela&layout=compact&langs_counts=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCordella&layout=compact&langs_counts=16&theme=dark"/>
 </div>
 
 <br>
