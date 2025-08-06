@@ -1,7 +1,7 @@
 <!-- ========== "TÍTULO" ========== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+Luca+Cordella+%F0%9F%91%8B%F0%9F%8F%BC;Desenvolvedor+de+Software+%F0%9F%92%BB" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Sou+Luca+Cordella+%F0%9F%91%8B%F0%9F%8F%BC;Cyber+Security+Analyst+%F0%9F%92%BB" 
          alt="Typing SVG"/>
   </a>
 </p>
